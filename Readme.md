@@ -34,7 +34,7 @@
 
 #### 人脸识别页面
 
-![image-20250619184135043](pics\image-20250619184135043.png)
+![image-20250619184135043](pics/image-20250619184135043.png)
 
 #### 注册页面
 
@@ -236,3 +236,4 @@ final
 
 ## GitHub连接：
 
+> https://github.com/CharlesWiranto/RasPi_face_payment_reminder
